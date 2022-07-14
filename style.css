@@ -1,0 +1,14 @@
+.img img {
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+    margin-top: 10%;
+}
+
+@media (max-width:360px) {
+    .img img {
+        width: 80%;
+    }
+}

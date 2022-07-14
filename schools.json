@@ -1,0 +1,1290 @@
+[
+    {
+        "School Num": "10010",
+        "School Name": "Suehn-Mecca High School",
+        "School Address": "Cooper Town",
+        "County Name": "Bomi",
+        "District Name": "Suehn-Mecca",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "10048",
+        "School Name": "Beajah Public School",
+        "School Address": "Beajah Town",
+        "County Name": "Bomi",
+        "District Name": "Senjeh",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "10056",
+        "School Name": "Sass town Elem/Jr High School",
+        "School Address": "Sass Town",
+        "County Name": "Bomi",
+        "District Name": "Klay",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "10073",
+        "School Name": "Gertrude Yancy Public School",
+        "School Address": "Klay",
+        "County Name": "Bomi",
+        "District Name": "Klay",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "10111",
+        "School Name": "Jenneh Elem/Jr High School",
+        "School Address": "Jenneh # 3",
+        "County Name": "Bomi",
+        "District Name": "Dewoin",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "10150",
+        "School Name": "Charles Henry Dewey Central High School PM",
+        "School Address": "Tubmanburg",
+        "County Name": "Bomi",
+        "District Name": "Senjeh",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "10164",
+        "School Name": "Charles Henry Dewey Central School AM",
+        "School Address": "Tubmanburg",
+        "County Name": "Bomi",
+        "District Name": "Senjeh",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "16005",
+        "School Name": "William V. S. Tubman",
+        "School Address": "",
+        "County Name": "Montserrado",
+        "District Name": "Greater Monrovia",
+        "School Type": "HS"
+    },
+    {
+        "School Num": "20004",
+        "School Name": "Ernest  Jerome Yancy",
+        "School Address": "Totota",
+        "County Name": "Bong",
+        "District Name": "Salala",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "20005",
+        "School Name": "Martha Tubman Public School",
+        "School Address": "Salala",
+        "County Name": "Bong",
+        "District Name": "Salala",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "20018",
+        "School Name": "Saysayla Public School",
+        "School Address": "Salala",
+        "County Name": "Bong",
+        "District Name": "Salala",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "20023",
+        "School Name": "Quelimin Toto Public School",
+        "School Address": "Maima Town",
+        "County Name": "Bong",
+        "District Name": "Salala",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "20028",
+        "School Name": "N V. Massaquoi Public School",
+        "School Address": "Kokoyah Road",
+        "County Name": "Bong",
+        "District Name": "Gbarnga",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "20029",
+        "School Name": "Dolokelen Gboveh Public School",
+        "School Address": "Bbarnga City",
+        "County Name": "Bong",
+        "District Name": "Gbarnga",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "20041",
+        "School Name": "Suakoko Central High School",
+        "School Address": "Suakoko",
+        "County Name": "Bong",
+        "District Name": "Suacoco",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "20046",
+        "School Name": "G. W. Gibson Jr/Sr High School",
+        "School Address": "Suakoko Town",
+        "County Name": "Bong",
+        "District Name": "Suacoco",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "20057",
+        "School Name": "David Fejue Public School",
+        "School Address": "Gbartala",
+        "County Name": "Bong",
+        "District Name": "Suacoco",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "20070",
+        "School Name": "William R. Tolbert High School",
+        "School Address": "Gbalatuah",
+        "County Name": "Bong",
+        "District Name": "Zota",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "20162",
+        "School Name": "Bong Mine Central High School",
+        "School Address": "Bong Mines",
+        "County Name": "Bong",
+        "District Name": "Fuamah",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "20186",
+        "School Name": "Nyakoi Bee Elem/Jr High School",
+        "School Address": "Palala",
+        "County Name": "Bong",
+        "District Name": "Panta-Kpaai",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "20193",
+        "School Name": "Nyofarkollie Elem/Jr/Sr High School",
+        "School Address": "Zowienta",
+        "County Name": "Bong",
+        "District Name": "Panta-Kpaai",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "30020",
+        "School Name": "Weamawuo Elem School",
+        "School Address": "Vaye Town",
+        "County Name": "Gbarpolu",
+        "District Name": "Gbarma",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "30026",
+        "School Name": "Bell Baloma Public School",
+        "School Address": "Baloma Town",
+        "County Name": "Gbarpolu",
+        "District Name": "Belle",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "30051",
+        "School Name": "Gbarma Central High School",
+        "School Address": "Gbarma Town",
+        "County Name": "Gbarpolu",
+        "District Name": "Gbarma",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "30134",
+        "School Name": "Bopolo Central high School",
+        "School Address": "Bopolu city",
+        "County Name": "Gbarpolu",
+        "District Name": "Bopolu",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "40002",
+        "School Name": "Mablee Public School",
+        "School Address": "District 2 Civil Compound",
+        "County Name": "Grand Bassa",
+        "District Name": "District 2 Civil Compound",
+        "School Type": "HS"
+    },
+    {
+        "School Num": "40014",
+        "School Name": "St. John River Public School",
+        "School Address": "Fortsville, St. John Rivr City",
+        "County Name": "Grand Bassa",
+        "District Name": "District 2",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "40025",
+        "School Name": "Gorblee Central High School",
+        "School Address": "Compound 3",
+        "County Name": "Grand Bassa",
+        "District Name": "District 3",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "40056",
+        "School Name": "Kpannay Town Public School",
+        "School Address": "Buchanan",
+        "County Name": "Grand Bassa",
+        "District Name": "Buchanan",
+        "School Type": "HS"
+    },
+    {
+        "School Num": "40095",
+        "School Name": "Bassa High School",
+        "School Address": "Tubman Street",
+        "County Name": "Grand Bassa",
+        "District Name": "District 5",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "50005",
+        "School Name": "Madina Elem/Jr High School",
+        "School Address": "Madina",
+        "County Name": "Grand Cape Mount",
+        "District Name": "Garwula",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "50019",
+        "School Name": "Sinje High School",
+        "School Address": "Sinje",
+        "County Name": "Grand Cape Mount",
+        "District Name": "Garwula",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "50025",
+        "School Name": "Robertsport High School",
+        "School Address": "Robertsport",
+        "County Name": "Grand Cape Mount",
+        "District Name": "Tallah/Tombey",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "50033",
+        "School Name": "Damballa High School",
+        "School Address": "Damballa",
+        "County Name": "Grand Cape Mount",
+        "District Name": "Porkpa",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "50056",
+        "School Name": "Zimmi/Bamballa Public School",
+        "School Address": "Bamballa",
+        "County Name": "Grand Cape Mount",
+        "District Name": "Porkpa",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "50059",
+        "School Name": "Gbesseh Jr/Sr High School",
+        "School Address": "Gbesseh",
+        "County Name": "Grand Cape Mount",
+        "District Name": "Tewor",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "50071",
+        "School Name": "Bo community School",
+        "School Address": "Bo Waterside",
+        "County Name": "Grand Cape Mount",
+        "District Name": "Tewor",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "50079",
+        "School Name": "Tienii-Wonde Public School",
+        "School Address": "Tienii",
+        "County Name": "Grand Cape Mount",
+        "District Name": "Tewor",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "50098",
+        "School Name": "Than Public School",
+        "School Address": "Than",
+        "County Name": "Grand Cape Mount",
+        "District Name": "Gola Konneh",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "60008",
+        "School Name": "Suah Memorial High School",
+        "School Address": "Zwedru",
+        "County Name": "Grand Gedeh",
+        "District Name": "Tchien",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "60014",
+        "School Name": "Konobo Central High School",
+        "School Address": "Ziah Town",
+        "County Name": "Grand Gedeh",
+        "District Name": "Konobo",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "60033",
+        "School Name": "Tubman Wilson Institute",
+        "School Address": "Zwedru City",
+        "County Name": "Grand Gedeh",
+        "District Name": "Tchien",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "60034",
+        "School Name": "Johnny Garley Public School",
+        "School Address": "Zwedru City",
+        "County Name": "Grand Gedeh",
+        "District Name": "Tchien",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "60040",
+        "School Name": "Zwedru Multilateral High School",
+        "School Address": "Zwedru City",
+        "County Name": "Grand Gedeh",
+        "District Name": "Tchien",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "60065",
+        "School Name": "Pennokon Elem/Jr High School",
+        "School Address": "Pennoken",
+        "County Name": "Grand Gedeh",
+        "District Name": "Putu",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "60079",
+        "School Name": "Toe Memoria Public Institute",
+        "School Address": "Toe Town",
+        "County Name": "Grand Gedeh",
+        "District Name": "Gbarzon",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "60098",
+        "School Name": "Borkey High School",
+        "School Address": "Zleh Town",
+        "County Name": "Grand Gedeh",
+        "District Name": "Gbarzon",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "60154",
+        "School Name": "Gborho Central High School",
+        "School Address": "Zai Town",
+        "County Name": "Grand Gedeh",
+        "District Name": "Tchien",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "70026",
+        "School Name": "Barclayville Central High School",
+        "School Address": "Barclayville City",
+        "County Name": "Grand Kru",
+        "District Name": "Barclayville",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "70039",
+        "School Name": "P. G. Wollor High School",
+        "School Address": "Grandcess",
+        "County Name": "Grand Kru",
+        "District Name": "Grand Cess",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "70060",
+        "School Name": "Garraway central high school",
+        "School Address": "Trehn district",
+        "County Name": "Sinoe",
+        "District Name": "Trehn district",
+        "School Type": "HS"
+    },
+    {
+        "School Num": "70066",
+        "School Name": "Po River Elem/Jr High School",
+        "School Address": "Waterside",
+        "County Name": "Grand Kru",
+        "District Name": "Trehn",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "70076",
+        "School Name": "F. F. Doe Public School",
+        "School Address": "Barforwin",
+        "County Name": "Grand Kru",
+        "District Name": "Dorboh",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "70090",
+        "School Name": "Buah Central High School",
+        "School Address": "Gee City",
+        "County Name": "Grand Kru",
+        "District Name": "Buah",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "70101",
+        "School Name": "Sass Town High School",
+        "School Address": "Sass Town",
+        "County Name": "Grand Kru",
+        "District Name": "Sass Town",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "70112",
+        "School Name": "Darpluken Public School",
+        "School Address": "Darpluken",
+        "County Name": "Grand Kru",
+        "District Name": "Trehn",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "80012",
+        "School Name": "Tellewoyan Public High School",
+        "School Address": "",
+        "County Name": "Lofa",
+        "District Name": "",
+        "School Type": "HS"
+    },
+    {
+        "School Num": "80013",
+        "School Name": "Voinjama Multilateral High",
+        "School Address": "Voinjama City",
+        "County Name": "Lofa",
+        "District Name": "Voinjama",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "80082",
+        "School Name": "Zorzor Central High School",
+        "School Address": "Zorzor City",
+        "County Name": "Lofa",
+        "District Name": "Zorzor",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "80095",
+        "School Name": "Salayea Central High School",
+        "School Address": "Salayea Town",
+        "County Name": "Lofa",
+        "District Name": "Salayea",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "80107",
+        "School Name": "Sucromu Public High School",
+        "School Address": "Lofa",
+        "County Name": "",
+        "District Name": "HS",
+        "School Type": ""
+    },
+    {
+        "School Num": "",
+        "School Name": "",
+        "School Address": "",
+        "County Name": "",
+        "District Name": "",
+        "School Type": ""
+    },
+    {
+        "School Num": "80112",
+        "School Name": "Vahun Central High School",
+        "School Address": "Vahun",
+        "County Name": "Lofa",
+        "District Name": "Vahun",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "80126",
+        "School Name": "Kolahun Central High School",
+        "School Address": "Kolba City",
+        "County Name": "Lofa",
+        "District Name": "Kolahun",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "80173",
+        "School Name": "Bolahun Town Public School",
+        "School Address": "Bolahun",
+        "County Name": "Lofa",
+        "District Name": "Kolahun",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "80217",
+        "School Name": "Tamba Taylor Public School",
+        "School Address": "Shelloe Town",
+        "County Name": "Lofa",
+        "District Name": "Foya",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "80249",
+        "School Name": "School of Faith Mission",
+        "School Address": "Kolba City",
+        "County Name": "Lofa",
+        "District Name": "Kolahun",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "80272",
+        "School Name": "ZRTTI  Exension  High School",
+        "School Address": "Fissibu",
+        "County Name": "Lofa",
+        "District Name": "Zorzor",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "80286",
+        "School Name": "Foyah Central High School",
+        "School Address": "",
+        "County Name": "Lofa",
+        "District Name": "",
+        "School Type": "HS"
+    },
+    {
+        "School Num": "90001",
+        "School Name": "Dolo Town Public School",
+        "School Address": "Dolo Town",
+        "County Name": "Margibi",
+        "District Name": "Marshall",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "90017",
+        "School Name": "R. S. Caulfield Jr/Sr High School",
+        "School Address": "Unification Town",
+        "County Name": "Margibi",
+        "District Name": "Marshall",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "90067",
+        "School Name": "John Payne Mitchell Public School",
+        "School Address": "Boys Town junction",
+        "County Name": "Margibi",
+        "District Name": "Marshall",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "90129",
+        "School Name": "Harbel Multilteral High School",
+        "School Address": "Harbel",
+        "County Name": "Margibi",
+        "District Name": "Marshall",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "90157",
+        "School Name": "Lango Lippaye Public School",
+        "School Address": "Kakata City",
+        "County Name": "Margibi",
+        "District Name": "Kakata",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "90189",
+        "School Name": "BWI Comprehensive School",
+        "School Address": "Kakata City",
+        "County Name": "Margibi",
+        "District Name": "Kakata",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "90364",
+        "School Name": "Liberia Renaissance Education Complex",
+        "School Address": "Duazon",
+        "County Name": "Margibi",
+        "District Name": "Marshall",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "90417",
+        "School Name": "Booker Washington Institute",
+        "School Address": "Kakata",
+        "County Name": "Margibi",
+        "District Name": "Kakata",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "100004",
+        "School Name": "Pleebo Extension Public School",
+        "School Address": "Pleebo",
+        "County Name": "Maryland",
+        "District Name": "Pleebo",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "100005",
+        "School Name": "Pleebo High School",
+        "School Address": "Pleebo",
+        "County Name": "Maryland",
+        "District Name": "Pleebo",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "100012",
+        "School Name": "Karloken Public School",
+        "School Address": "Karloken",
+        "County Name": "Maryland",
+        "District Name": "Karluway 1",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "100036",
+        "School Name": "Jacksonville Public School",
+        "School Address": "Jacksonville",
+        "County Name": "Maryland",
+        "District Name": "Harper 1",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "100037",
+        "School Name": "Cape Palmas High School",
+        "School Address": "Harper City",
+        "County Name": "Maryland",
+        "District Name": "Harper 1",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "100100",
+        "School Name": "Barrobo Central High School",
+        "School Address": "Glofaken",
+        "County Name": "Maryland",
+        "District Name": "Barrobo I- Dougbe",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "100130",
+        "School Name": "J. T. Dayrall Night School",
+        "School Address": "Harper 1/Maryland Ave",
+        "County Name": "Maryland",
+        "District Name": "Harper 1",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "110003",
+        "School Name": "Annie Banks Public School",
+        "School Address": "Brewerville City",
+        "County Name": "Montserrado",
+        "District Name": "Right Bank 2",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "110004",
+        "School Name": "Virgina Public School",
+        "School Address": "Center Virgina",
+        "County Name": "Montserrado",
+        "District Name": "Right Bank 2",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "110018",
+        "School Name": "Soul Clinic School AM/PM",
+        "School Address": "Soul Clinic",
+        "County Name": "Montserrado",
+        "District Name": "Paynesville",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "110024",
+        "School Name": "Dix-ville Public School",
+        "School Address": "Dix-ville Township",
+        "County Name": "Montserrado",
+        "District Name": "Left Bank 2",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "110028",
+        "School Name": "Johnsonville Public School",
+        "School Address": "Johnsonville Old Field",
+        "County Name": "Montserrado",
+        "District Name": "Left Bank 2",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "110032",
+        "School Name": "Frank E. Tolbert High School",
+        "School Address": "Bensonville City",
+        "County Name": "Montserrado",
+        "District Name": "Left Bank 2",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "110041",
+        "School Name": "Paynesville Community High School (Voker Mission)",
+        "School Address": "Voker Mission Paynesville",
+        "County Name": "Montserrado",
+        "District Name": "Paynesville",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "110056",
+        "School Name": "Careysburg Public High School",
+        "School Address": "Careysburg",
+        "County Name": "Montserrado",
+        "District Name": "Careysburg",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "110086",
+        "School Name": "Oluremi Tinubi Public School",
+        "School Address": "",
+        "County Name": "Montserrado",
+        "District Name": "Left Bank #1",
+        "School Type": "HS"
+    },
+    {
+        "School Num": "110148",
+        "School Name": "Zannah Town Public School",
+        "School Address": "Zannah Town",
+        "County Name": "Montserrado",
+        "District Name": "Todee",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "110163",
+        "School Name": "Nyehn #1 Public School",
+        "School Address": "Nyehn",
+        "County Name": "Montserrado",
+        "District Name": "Todee",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "110217",
+        "School Name": "Blamasee Public School",
+        "School Address": "Brewerville",
+        "County Name": "Montserrado",
+        "District Name": "Right Bank 1",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "110227",
+        "School Name": "Kpallah Public School",
+        "School Address": "Brewerville",
+        "County Name": "Montserrado",
+        "District Name": "Right Bank 1",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "110228",
+        "School Name": "V.O.A -1 Academy",
+        "School Address": "Brewerville",
+        "County Name": "Montserrado",
+        "District Name": "Right Bank 1",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "110230",
+        "School Name": "Sarah Barclay High School",
+        "School Address": "Zaye Town",
+        "County Name": "Montserrado",
+        "District Name": "Right Bank 1",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "110235",
+        "School Name": "Banjor Central High  School",
+        "School Address": "Banjor Lower Virginia",
+        "County Name": "Montserrado",
+        "District Name": "Right Bank 1",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "110287",
+        "School Name": "Morris' Farm Public School Am",
+        "School Address": "Behind Coca Cola Factory",
+        "County Name": "Montserrado",
+        "District Name": "Paynesville",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "110359",
+        "School Name": "Kingsville Public School",
+        "School Address": "Kingsville #7",
+        "County Name": "Montserrado",
+        "District Name": "Careysburg",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "110394",
+        "School Name": "Special Project High School",
+        "School Address": "Stephen A. Tolbert",
+        "County Name": "Montserrado",
+        "District Name": "Left Bank 1",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "110402",
+        "School Name": "Barnesville Public School",
+        "School Address": "",
+        "County Name": "Montserrado",
+        "District Name": "Left Bank #1",
+        "School Type": "HS"
+    },
+    {
+        "School Num": "110425",
+        "School Name": "Gray D. Allison High School",
+        "School Address": "BTC UN Drive",
+        "County Name": "Montserrado",
+        "District Name": "Greater Monrovia 2",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "110440",
+        "School Name": "Elizabeth Tubman Memorial Institute",
+        "School Address": "Upper Caldwell",
+        "County Name": "Montserrado",
+        "District Name": "Left Bank 2",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "110466",
+        "School Name": "E. Jonathan Goodridge High School",
+        "School Address": "Barnersville",
+        "County Name": "Montserrado",
+        "District Name": "Left Bank 1",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "110598",
+        "School Name": "Kendeja Senior High School",
+        "School Address": "Rehab Community",
+        "County Name": "Montserrado",
+        "District Name": "Greater Monrovia 1",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "110974",
+        "School Name": "William G. Kploeh  High School",
+        "School Address": "New Georgia",
+        "County Name": "Montserrado",
+        "District Name": "Left Bank 1",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "111147",
+        "School Name": "PCS Night",
+        "School Address": "Joe Bar",
+        "County Name": "Montserrado",
+        "District Name": "Paynesville",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "111167",
+        "School Name": "Soul Clinic Night School",
+        "School Address": "Soul Clinic",
+        "County Name": "Montserrado",
+        "District Name": "Paynesville",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "111182",
+        "School Name": "Wein Town Public School",
+        "School Address": "Wein Town",
+        "County Name": "Montserrado",
+        "District Name": "Paynesville",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "111211",
+        "School Name": "Madison Public School",
+        "School Address": "Brewerville",
+        "County Name": "Montserrado",
+        "District Name": "Right Bank 1",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "111224",
+        "School Name": "Royesville Central School",
+        "School Address": "Royeville",
+        "County Name": "Montserrado",
+        "District Name": "Right Bank 1",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "111252",
+        "School Name": "Liberia School for the Deaf",
+        "School Address": "Mamgo Town",
+        "County Name": "Montserrado",
+        "District Name": "Right Bank 2",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "111613",
+        "School Name": "Evert Jonathan Memorial School Night",
+        "School Address": "Bardnesville Estate",
+        "County Name": "Montserrado",
+        "District Name": "Left Bank 1",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "111810",
+        "School Name": "William Gabriel Kpoleh High Night",
+        "School Address": "New Georgia Estate",
+        "County Name": "Montserrado",
+        "District Name": "Left Bank 1",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "111852",
+        "School Name": "Kendeja Night School",
+        "School Address": "Rehab Community",
+        "County Name": "Montserrado",
+        "District Name": "Greater Monrovia 1",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "111943",
+        "School Name": "Morris' Farm Public School PM",
+        "School Address": "Behind Coca Cola Factory",
+        "County Name": "Montserrado",
+        "District Name": "Paynesville",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "111991",
+        "School Name": "Sarah Barclay Night School",
+        "School Address": "",
+        "County Name": "Montserrado",
+        "District Name": "Left Bank #2",
+        "School Type": "HS"
+    },
+    {
+        "School Num": "112124",
+        "School Name": "Wein Town Public School Night",
+        "School Address": "Wein Town",
+        "County Name": "Montserrado",
+        "District Name": "Paynesville",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "120009",
+        "School Name": "Saywah Doe High School",
+        "School Address": "Gbloulay",
+        "County Name": "Nimba",
+        "District Name": "Buu-yao",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "120042",
+        "School Name": "Zekeh Memorial High School",
+        "School Address": "Zekepa Town",
+        "County Name": "Nimba",
+        "District Name": "Yarwin-Mensonoh",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "120056",
+        "School Name": "Buutuo Central High School",
+        "School Address": "Buu-Tuo Town",
+        "County Name": "Nimba",
+        "District Name": "Buu-yao",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "",
+        "School Name": "",
+        "School Address": "",
+        "County Name": "",
+        "District Name": "",
+        "School Type": ""
+    },
+    {
+        "School Num": "120082",
+        "School Name": "Toweh Memorial High School",
+        "School Address": "Toweh Town",
+        "County Name": "Nimba",
+        "District Name": "Tappita 2",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "120100",
+        "School Name": "J. W. Pearson High School",
+        "School Address": "Ganta",
+        "County Name": "Nimba",
+        "District Name": "Bain-Garr",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "120121",
+        "School Name": "Tappeh Memorial High School",
+        "School Address": "",
+        "County Name": "Nimba",
+        "District Name": "",
+        "School Type": "HS"
+    },
+    {
+        "School Num": "120198",
+        "School Name": "Garplay Public School 2",
+        "School Address": "Garplay",
+        "County Name": "Nimba",
+        "District Name": "Tuah River",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "120212",
+        "School Name": "Sanniquellie Central High School",
+        "School Address": "Sanniquellie",
+        "County Name": "Nimba",
+        "District Name": "Sanniquelleh-Mah",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "120246",
+        "School Name": "Duo Elem/Jr High School",
+        "School Address": "Duo Town",
+        "County Name": "Nimba",
+        "District Name": "Saclepea 2",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "120272",
+        "School Name": "Duoplay Semi-High School",
+        "School Address": "Duoplay City",
+        "County Name": "Nimba",
+        "District Name": "Gbehlay-geh",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "120295",
+        "School Name": "Karn High School",
+        "School Address": "Karnplay City",
+        "County Name": "Nimba",
+        "District Name": "Gbehlay-geh",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "120323",
+        "School Name": "Johnny Voker Extension School",
+        "School Address": "Saclepea Refugee Camp",
+        "County Name": "Nimba",
+        "District Name": "Saclepea 1",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "120343",
+        "School Name": "Bahn High School",
+        "School Address": "Bahn city",
+        "County Name": "Nimba",
+        "District Name": "Zoe-Geh",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "120426",
+        "School Name": "Youth Acadcemy",
+        "School Address": "Ganta",
+        "County Name": "Nimba",
+        "District Name": "Bain-Garr",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "120465",
+        "School Name": "Karnplay Baptist Semi High School",
+        "School Address": "Karnplay City",
+        "County Name": "Nimba",
+        "District Name": "Gbehlay-geh",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "120476",
+        "School Name": "Ganta Child Friendly Public School",
+        "School Address": "Ganta",
+        "County Name": "Nimba",
+        "District Name": "Bain-Garr",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "120507",
+        "School Name": "karn High School Extenstion",
+        "School Address": "Karnplay City",
+        "County Name": "Nimba",
+        "District Name": "Gbehlay-geh",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "120524",
+        "School Name": "Johnny Voker High School",
+        "School Address": "Saclepea City",
+        "County Name": "Nimba",
+        "District Name": "Saclepea 1",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "120546",
+        "School Name": "Flumpa Public School",
+        "School Address": "Flumpa",
+        "County Name": "Nimba",
+        "District Name": "Saclepea 2",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "120551",
+        "School Name": "William V. S. Tubman Elem/Jr High",
+        "School Address": "Kpain Town",
+        "County Name": "Nimba",
+        "District Name": "Saclepea 2",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "120596",
+        "School Name": "Wrolay Public School",
+        "School Address": "Wrolay",
+        "County Name": "Nimba",
+        "District Name": "Tappita 1",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "120673",
+        "School Name": "Sanniquellie central High School Ext.",
+        "School Address": "Sanniquellie City",
+        "County Name": "Nimba",
+        "District Name": "Sanniquelleh-Mah",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "120749",
+        "School Name": "Sanninquellie Central High School",
+        "School Address": "sanniquellie",
+        "County Name": "Nimba",
+        "District Name": "Sanniquelleh-Mah",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "130032",
+        "School Name": "Cestos High School",
+        "School Address": "Cestos City",
+        "County Name": "River Cess",
+        "District Name": "Timbo",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "130057",
+        "School Name": "Yarpah Town Public School",
+        "School Address": "Yarpah Town",
+        "County Name": "River Cess",
+        "District Name": "Central Rivercess 1",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "130104",
+        "School Name": "Gleozohn Public School",
+        "School Address": "Gleozon Town",
+        "County Name": "River Cess",
+        "District Name": "Monweh",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "140027",
+        "School Name": "Tweh Jaiklay Public School",
+        "School Address": "Fishtown",
+        "County Name": "River Gee",
+        "District Name": "Potupo",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "140040",
+        "School Name": "Webbo Elem. & Jr. High School",
+        "School Address": "",
+        "County Name": "RiverGee",
+        "District Name": "Not Available",
+        "School Type": "HS"
+    },
+    {
+        "School Num": "140067",
+        "School Name": "Gbeapo Central High School",
+        "School Address": "Kaweaken",
+        "County Name": "River Gee",
+        "District Name": "Gbaepo",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "150027",
+        "School Name": "Droah high school",
+        "School Address": "Central kpanyan",
+        "County Name": "Sinoe",
+        "District Name": "Not Available",
+        "School Type": "HS"
+    },
+    {
+        "School Num": "150046",
+        "School Name": "Samford Dennis high school",
+        "School Address": "Trehn district",
+        "County Name": "Sinoe",
+        "District Name": "Trehn district",
+        "School Type": "HS"
+    },
+    {
+        "School Num": "150079",
+        "School Name": "Juarzon Central High School",
+        "School Address": "Bilibokree City",
+        "County Name": "Sinoe",
+        "District Name": "Juarzon",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "150084",
+        "School Name": "Nyarn Central (J. Milton Teahjay)",
+        "School Address": "Unification",
+        "County Name": "Sinoe",
+        "District Name": "Tarjuwon",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "150161",
+        "School Name": "Sinoe Extension School",
+        "School Address": "Greenville",
+        "County Name": "Sinoe",
+        "District Name": "Greenville",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "150163",
+        "School Name": "Seebah high school",
+        "School Address": "Greenville",
+        "County Name": "Sinoe",
+        "District Name": "Not Available",
+        "School Type": "HS"
+    },
+    {
+        "School Num": "150167",
+        "School Name": "Sinoe Multilateral High School",
+        "School Address": "Greenville",
+        "County Name": "Sinoe",
+        "District Name": "Greenville",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "160005",
+        "School Name": "William V .S. Tubman High School",
+        "School Address": "12th Street Sinkor",
+        "County Name": "Montserrado",
+        "District Name": "MCSS",
+        "School Type": "Public"
+    },
+    {
+        "School Num": "160018",
+        "School Name": "D. Twe High School",
+        "School Address": "",
+        "County Name": "Montserrado",
+        "District Name": "Greater Monrovia",
+        "School Type": "HS"
+    },
+    {
+        "School Num": "160022",
+        "School Name": "G. W. Gibson",
+        "School Address": "",
+        "County Name": "Montserrado",
+        "District Name": "Greater Monrovia",
+        "School Type": "HS"
+    }
+]
