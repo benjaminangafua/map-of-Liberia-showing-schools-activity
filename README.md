@@ -1,1 +1,1 @@
-# map-of-Liberia-showing-schools-activity
+**Build an interactively highlighted map of Liberia showing activity from these schools.**
