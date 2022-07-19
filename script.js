@@ -4,21 +4,16 @@ fetch(URL_PATH)
     .then(res => res.json())
     .then(data => {
 
-        let counties = ["Lofa", "Bomi", "Bong", "GrandGedeh", "GrandKru",
-            "GrandBassa", "GrandCapeMount", "Nimba", "RiverGee", "RiveCess",
-            "Gbarpolu", "Sinoe", "Maryland", "Margibi", "Montserrado"
-        ]
-        for (let i = 0; i < counties.length; i++) {
+        let COUNTIES = ["Lofa", "Bomi", "Bong", "GrandGedeh", "GrandKru", "GrandBassa", "GrandCapeMount", "Nimba", "RiverGee", "RiveCess", "Gbarpolu", "Sinoe", "Maryland", "Margibi", "Montserrado"]
+        const COLOR = ["green", "orange", "navy", "purple", "brown", "red", "teal", "black", "yellow", "khaki", "gray", "pink", "blue", "lime", "crimson"]
 
-            let Lofa = document.querySelectorAll(`.${counties[i]}`)
-                // Lofa[0].setAttribute("style", "fill:orange")
+        for (let i = 0; i < COUNTIES.length; i++) {
+            console.log(i)
+            let count = document.querySelectorAll(`.${COUNTIES[i]}`)
+            for (let j = 0; j < count.length; j++) {
+                count[j].setAttribute("style", `fill:${COLOR[i]}`)
 
-
-        }
-
-        for (let i = 0; i < counties.length; i++) {
-            // let elementEffect = document.getElementById(counties[i])
-            // console.log(elementEffect)
+            }
         }
         console.log(data)
 
