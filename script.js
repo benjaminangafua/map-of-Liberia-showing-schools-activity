@@ -3,8 +3,14 @@ const URL_PATH = "./schools.json"
 fetch(URL_PATH)
     .then(res => res.json())
     .then(data => {
+        let COUNTIES = []
+        let container = document.querySelector(".container")
 
-        let COUNTIES = ["Lofa", "Bomi", "Bong", "GrandGedeh", "GrandKru", "GrandBassa", "GrandCapeMount", "Nimba", "RiverGee", "RiveCess", "Gbarpolu", "Sinoe", "Maryland", "Margibi", "Montserrado"]
+        // Get counties
+        let removeDuplicate = data.filter((obj, pos, arr) => arr.map(mapObj => mapObj["County Name"]).indexOf(obj["County Name"]) == pos);
+        removeDuplicate.forEach(element => COUNTIES.push(element["County Name"]));
+
+
         const COLOR = ["green", "orange", "navy", "purple", "brown", "red", "teal", "black", "yellow", "khaki", "gray", "pink", "blue", "lime", "crimson"]
 
         for (let i = 0; i < COUNTIES.length; i++) {
@@ -15,7 +21,17 @@ fetch(URL_PATH)
 
             }
         }
-        console.log(data)
 
+        let animate = document.querySelectorAll(".container span")
+        for (let i = 0; i < animate.length; i++) {
+            animate[i].style = `
+            position: absolute;
+            width: 15px;
+            height: 15px;
+            border-radius: 50px;
+            background-color: #fff;
+           animation: popUp 1.5s linear infinite;
+        `
+        }
 
     }).catch(error => console.error({ error }))

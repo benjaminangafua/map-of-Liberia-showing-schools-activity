@@ -1,5 +1,4 @@
-[
-    {
+[{
         "School Num": "10010",
         "School Name": "Suehn-Mecca High School",
         "School Address": "Cooper Town",
@@ -203,7 +202,7 @@
         "School Num": "40002",
         "School Name": "Mablee Public School",
         "School Address": "District 2 Civil Compound",
-        "County Name": "Grand Bassa",
+        "County Name": "GrandBassa",
         "District Name": "District 2 Civil Compound",
         "School Type": "HS"
     },
@@ -211,7 +210,7 @@
         "School Num": "40014",
         "School Name": "St. John River Public School",
         "School Address": "Fortsville, St. John Rivr City",
-        "County Name": "Grand Bassa",
+        "County Name": "GrandBassa",
         "District Name": "District 2",
         "School Type": "Public"
     },
@@ -219,7 +218,7 @@
         "School Num": "40025",
         "School Name": "Gorblee Central High School",
         "School Address": "Compound 3",
-        "County Name": "Grand Bassa",
+        "County Name": "GrandBassa",
         "District Name": "District 3",
         "School Type": "Public"
     },
@@ -227,7 +226,7 @@
         "School Num": "40056",
         "School Name": "Kpannay Town Public School",
         "School Address": "Buchanan",
-        "County Name": "Grand Bassa",
+        "County Name": "GrandBassa",
         "District Name": "Buchanan",
         "School Type": "HS"
     },
@@ -235,7 +234,7 @@
         "School Num": "40095",
         "School Name": "Bassa High School",
         "School Address": "Tubman Street",
-        "County Name": "Grand Bassa",
+        "County Name": "GrandBassa",
         "District Name": "District 5",
         "School Type": "Public"
     },
@@ -243,7 +242,7 @@
         "School Num": "50005",
         "School Name": "Madina Elem/Jr High School",
         "School Address": "Madina",
-        "County Name": "Grand Cape Mount",
+        "County Name": "GrandCapeMount",
         "District Name": "Garwula",
         "School Type": "Public"
     },
@@ -251,7 +250,7 @@
         "School Num": "50019",
         "School Name": "Sinje High School",
         "School Address": "Sinje",
-        "County Name": "Grand Cape Mount",
+        "County Name": "GrandCapeMount",
         "District Name": "Garwula",
         "School Type": "Public"
     },
@@ -259,7 +258,7 @@
         "School Num": "50025",
         "School Name": "Robertsport High School",
         "School Address": "Robertsport",
-        "County Name": "Grand Cape Mount",
+        "County Name": "GrandCapeMount",
         "District Name": "Tallah/Tombey",
         "School Type": "Public"
     },
@@ -267,7 +266,7 @@
         "School Num": "50033",
         "School Name": "Damballa High School",
         "School Address": "Damballa",
-        "County Name": "Grand Cape Mount",
+        "County Name": "GrandCapeMount",
         "District Name": "Porkpa",
         "School Type": "Public"
     },
@@ -275,7 +274,7 @@
         "School Num": "50056",
         "School Name": "Zimmi/Bamballa Public School",
         "School Address": "Bamballa",
-        "County Name": "Grand Cape Mount",
+        "County Name": "GrandCapeMount",
         "District Name": "Porkpa",
         "School Type": "Public"
     },
@@ -283,7 +282,7 @@
         "School Num": "50059",
         "School Name": "Gbesseh Jr/Sr High School",
         "School Address": "Gbesseh",
-        "County Name": "Grand Cape Mount",
+        "County Name": "GrandCapeMount",
         "District Name": "Tewor",
         "School Type": "Public"
     },
@@ -291,7 +290,7 @@
         "School Num": "50071",
         "School Name": "Bo community School",
         "School Address": "Bo Waterside",
-        "County Name": "Grand Cape Mount",
+        "County Name": "GrandCapeMount",
         "District Name": "Tewor",
         "School Type": "Public"
     },
@@ -299,7 +298,7 @@
         "School Num": "50079",
         "School Name": "Tienii-Wonde Public School",
         "School Address": "Tienii",
-        "County Name": "Grand Cape Mount",
+        "County Name": "GrandCapeMount",
         "District Name": "Tewor",
         "School Type": "Public"
     },
@@ -307,7 +306,7 @@
         "School Num": "50098",
         "School Name": "Than Public School",
         "School Address": "Than",
-        "County Name": "Grand Cape Mount",
+        "County Name": "GrandCapeMount",
         "District Name": "Gola Konneh",
         "School Type": "Public"
     },
@@ -315,7 +314,7 @@
         "School Num": "60008",
         "School Name": "Suah Memorial High School",
         "School Address": "Zwedru",
-        "County Name": "Grand Gedeh",
+        "County Name": "GrandGedeh",
         "District Name": "Tchien",
         "School Type": "Public"
     },
@@ -323,7 +322,7 @@
         "School Num": "60014",
         "School Name": "Konobo Central High School",
         "School Address": "Ziah Town",
-        "County Name": "Grand Gedeh",
+        "County Name": "GrandGedeh",
         "District Name": "Konobo",
         "School Type": "Public"
     },
@@ -331,7 +330,7 @@
         "School Num": "60033",
         "School Name": "Tubman Wilson Institute",
         "School Address": "Zwedru City",
-        "County Name": "Grand Gedeh",
+        "County Name": "GrandGedeh",
         "District Name": "Tchien",
         "School Type": "Public"
     },
@@ -339,7 +338,7 @@
         "School Num": "60034",
         "School Name": "Johnny Garley Public School",
         "School Address": "Zwedru City",
-        "County Name": "Grand Gedeh",
+        "County Name": "GrandGedeh",
         "District Name": "Tchien",
         "School Type": "Public"
     },
@@ -347,7 +346,7 @@
         "School Num": "60040",
         "School Name": "Zwedru Multilateral High School",
         "School Address": "Zwedru City",
-        "County Name": "Grand Gedeh",
+        "County Name": "GrandGedeh",
         "District Name": "Tchien",
         "School Type": "Public"
     },
@@ -355,7 +354,7 @@
         "School Num": "60065",
         "School Name": "Pennokon Elem/Jr High School",
         "School Address": "Pennoken",
-        "County Name": "Grand Gedeh",
+        "County Name": "GrandGedeh",
         "District Name": "Putu",
         "School Type": "Public"
     },
@@ -363,7 +362,7 @@
         "School Num": "60079",
         "School Name": "Toe Memoria Public Institute",
         "School Address": "Toe Town",
-        "County Name": "Grand Gedeh",
+        "County Name": "GrandGedeh",
         "District Name": "Gbarzon",
         "School Type": "Public"
     },
@@ -371,7 +370,7 @@
         "School Num": "60098",
         "School Name": "Borkey High School",
         "School Address": "Zleh Town",
-        "County Name": "Grand Gedeh",
+        "County Name": "GrandGedeh",
         "District Name": "Gbarzon",
         "School Type": "Public"
     },
@@ -379,7 +378,7 @@
         "School Num": "60154",
         "School Name": "Gborho Central High School",
         "School Address": "Zai Town",
-        "County Name": "Grand Gedeh",
+        "County Name": "GrandGedeh",
         "District Name": "Tchien",
         "School Type": "Public"
     },
@@ -387,7 +386,7 @@
         "School Num": "70026",
         "School Name": "Barclayville Central High School",
         "School Address": "Barclayville City",
-        "County Name": "Grand Kru",
+        "County Name": "GrandKru",
         "District Name": "Barclayville",
         "School Type": "Public"
     },
@@ -395,7 +394,7 @@
         "School Num": "70039",
         "School Name": "P. G. Wollor High School",
         "School Address": "Grandcess",
-        "County Name": "Grand Kru",
+        "County Name": "GrandKru",
         "District Name": "Grand Cess",
         "School Type": "Public"
     },
@@ -411,7 +410,7 @@
         "School Num": "70066",
         "School Name": "Po River Elem/Jr High School",
         "School Address": "Waterside",
-        "County Name": "Grand Kru",
+        "County Name": "GrandKru",
         "District Name": "Trehn",
         "School Type": "Public"
     },
@@ -419,7 +418,7 @@
         "School Num": "70076",
         "School Name": "F. F. Doe Public School",
         "School Address": "Barforwin",
-        "County Name": "Grand Kru",
+        "County Name": "GrandKru",
         "District Name": "Dorboh",
         "School Type": "Public"
     },
@@ -427,7 +426,7 @@
         "School Num": "70090",
         "School Name": "Buah Central High School",
         "School Address": "Gee City",
-        "County Name": "Grand Kru",
+        "County Name": "GrandKru",
         "District Name": "Buah",
         "School Type": "Public"
     },
@@ -435,7 +434,7 @@
         "School Num": "70101",
         "School Name": "Sass Town High School",
         "School Address": "Sass Town",
-        "County Name": "Grand Kru",
+        "County Name": "GrandKru",
         "District Name": "Sass Town",
         "School Type": "Public"
     },
@@ -443,7 +442,7 @@
         "School Num": "70112",
         "School Name": "Darpluken Public School",
         "School Address": "Darpluken",
-        "County Name": "Grand Kru",
+        "County Name": "GrandKru",
         "District Name": "Trehn",
         "School Type": "Public"
     },
@@ -483,16 +482,8 @@
         "School Num": "80107",
         "School Name": "Sucromu Public High School",
         "School Address": "Lofa",
-        "County Name": "",
+        "County Name": "Lofa",
         "District Name": "HS",
-        "School Type": ""
-    },
-    {
-        "School Num": "",
-        "School Name": "",
-        "School Address": "",
-        "County Name": "",
-        "District Name": "",
         "School Type": ""
     },
     {
@@ -992,14 +983,6 @@
         "School Type": "Public"
     },
     {
-        "School Num": "",
-        "School Name": "",
-        "School Address": "",
-        "County Name": "",
-        "District Name": "",
-        "School Type": ""
-    },
-    {
         "School Num": "120082",
         "School Name": "Toweh Memorial High School",
         "School Address": "Toweh Town",
@@ -1163,7 +1146,7 @@
         "School Num": "130032",
         "School Name": "Cestos High School",
         "School Address": "Cestos City",
-        "County Name": "River Cess",
+        "County Name": "RiverCess",
         "District Name": "Timbo",
         "School Type": "Public"
     },
@@ -1171,7 +1154,7 @@
         "School Num": "130057",
         "School Name": "Yarpah Town Public School",
         "School Address": "Yarpah Town",
-        "County Name": "River Cess",
+        "County Name": "RiverCess",
         "District Name": "Central Rivercess 1",
         "School Type": "Public"
     },
@@ -1179,7 +1162,7 @@
         "School Num": "130104",
         "School Name": "Gleozohn Public School",
         "School Address": "Gleozon Town",
-        "County Name": "River Cess",
+        "County Name": "RiverCess",
         "District Name": "Monweh",
         "School Type": "Public"
     },
@@ -1187,7 +1170,7 @@
         "School Num": "140027",
         "School Name": "Tweh Jaiklay Public School",
         "School Address": "Fishtown",
-        "County Name": "River Gee",
+        "County Name": "RiverGee",
         "District Name": "Potupo",
         "School Type": "Public"
     },
@@ -1203,7 +1186,7 @@
         "School Num": "140067",
         "School Name": "Gbeapo Central High School",
         "School Address": "Kaweaken",
-        "County Name": "River Gee",
+        "County Name": "RiverGee",
         "District Name": "Gbaepo",
         "School Type": "Public"
     },
