@@ -18,7 +18,7 @@ body {
 
 /* animation: name duration timing-function delay iteration-count direction fill-mode; */
 
-.container .Lofa0 {
+.container .Lofa1 {
     top: 29%;
     left: 47%;
     font-size: 7px;
@@ -32,77 +32,77 @@ body {
     animation-delay: 0.5s;
 }
 
-.container .Margibi2 {
+.container .Margibi1 {
     top: 50%;
     left: 44%;
     font-size: 7px;
     animation-delay: 0.5s;
 }
 
-.container .Montserrado3 {
+.container .Montserrado1 {
     top: 50%;
     left: 42%;
     font-size: 7px;
     animation-delay: 0.5s;
 }
 
-.container .Gbarpolu14 {
+.container .Gbarpolu1 {
     top: 33%;
     left: 44%;
     font-size: 7px;
     animation-delay: 0.5s;
 }
 
-.container .Bong4 {
+.container .Bong1 {
     top: 43%;
     left: 50%;
     font-size: 7px;
     animation-delay: 0.5s;
 }
 
-.container .Nimba5 {
+.container .Nimba1 {
     top: 40%;
     left: 55%;
     font-size: 7px;
     animation-delay: 0.5s;
 }
 
-.container .GrandCapeMount9 {
+.container .GrandCapeMount1 {
     top: 40%;
     left: 40%;
     font-size: 7px;
     animation-delay: 0.5s;
 }
 
-.container .GrandBassa11 {
+.container .GrandBassa1 {
     top: 53%;
     left: 46%;
     font-size: 7px;
     animation-delay: 0.5s;
 }
 
-.container .GrandGedeh7 {
+.container .GrandGedeh1 {
     top: 57%;
     left: 56%;
     font-size: 7px;
     animation-delay: 0.5s;
 }
 
-.container .RiverCess12 {
+.container .RiverCess1 {
     top: 56%;
     left: 50%;
     font-size: 7px;
     animation-delay: 0.5s;
 }
 
-.container .Sinoe10 {
+.container .Sinoe1 {
     top: 64%;
     left: 53%;
     font-size: 7px;
     animation-delay: 0.5s;
 }
 
-.container .GrandKru8 {
+.container .GrandKru1 {
     top: 71%;
     left: 57%;
     font-size: 7px;
@@ -110,28 +110,14 @@ body {
     color: #fff;
 }
 
-.container .countyC {
-    top: 50%;
-    left: 50%;
-    animation-delay: 0.7s;
-}
-
-.container .GrandKru8 {
-    top: 71%;
-    left: 57%;
-    font-size: 7px;
-    animation-delay: 0.5s;
-    color: #fff;
-}
-
-.container .RiverGee13 {
+.container .RiverGee1 {
     top: 68%;
     left: 60%;
     font-size: 7px;
     animation-delay: 0.5s;
 }
 
-.container .Maryland6 {
+.container .Maryland1 {
     top: 77%;
     left: 61%;
     font-size: 7px;

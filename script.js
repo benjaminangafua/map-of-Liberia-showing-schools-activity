@@ -33,10 +33,10 @@ fetch(URL_PATH)
                 })
 
                 // Pop up
-                // let span = document.createElement("span")
-                // span.setAttribute("class", `${eachCounty}1`)
-                // container.append(span)
             }
+            let span = document.createElement("span")
+            span.setAttribute("class", `${COUNTIES[i]}1`)
+            container.append(span)
         }
 
         let animate = document.querySelectorAll(".container span")
