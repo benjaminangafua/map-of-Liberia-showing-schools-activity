@@ -4,6 +4,8 @@
 
 body {
     background-color: rgba(7, 6, 6, 0.863);
+    margin: 0;
+    padding: 0;
 }
 
 .img img {
@@ -21,91 +23,78 @@ body {
 .container .Lofa1 {
     top: 29%;
     left: 47%;
-    font-size: 7px;
     animation-delay: 1s;
 }
 
 .container .Bomi1 {
     top: 48%;
     left: 41%;
-    font-size: 7px;
     animation-delay: 0.5s;
 }
 
 .container .Margibi1 {
     top: 50%;
     left: 44%;
-    font-size: 7px;
     animation-delay: 0.5s;
 }
 
 .container .Montserrado1 {
     top: 50%;
     left: 42%;
-    font-size: 7px;
     animation-delay: 0.5s;
 }
 
 .container .Gbarpolu1 {
     top: 33%;
     left: 44%;
-    font-size: 7px;
     animation-delay: 0.5s;
 }
 
 .container .Bong1 {
     top: 43%;
     left: 50%;
-    font-size: 7px;
     animation-delay: 0.5s;
 }
 
 .container .Nimba1 {
     top: 40%;
     left: 55%;
-    font-size: 7px;
     animation-delay: 0.5s;
 }
 
 .container .GrandCapeMount1 {
     top: 40%;
     left: 40%;
-    font-size: 7px;
     animation-delay: 0.5s;
 }
 
 .container .GrandBassa1 {
     top: 53%;
     left: 46%;
-    font-size: 7px;
     animation-delay: 0.5s;
 }
 
 .container .GrandGedeh1 {
     top: 57%;
     left: 56%;
-    font-size: 7px;
     animation-delay: 0.5s;
 }
 
 .container .RiverCess1 {
     top: 56%;
     left: 50%;
-    font-size: 7px;
     animation-delay: 0.5s;
 }
 
 .container .Sinoe1 {
     top: 64%;
     left: 53%;
-    font-size: 7px;
     animation-delay: 0.5s;
 }
 
 .container .GrandKru1 {
     top: 71%;
     left: 57%;
-    font-size: 7px;
     animation-delay: 0.5s;
     color: #fff;
 }
@@ -113,14 +102,12 @@ body {
 .container .RiverGee1 {
     top: 68%;
     left: 60%;
-    font-size: 7px;
     animation-delay: 0.5s;
 }
 
 .container .Maryland1 {
     top: 77%;
     left: 61%;
-    font-size: 7px;
     animation-delay: 0.5s;
 }
 
@@ -131,8 +118,161 @@ body {
     }
 }
 
-@media (max-width:360px) {
+@media screen and (max-width:360px) {
     .img img {
         width: 80%;
     }
 }
+
+@media only screen and (max-width:480px) {
+    svg {
+        width: 340px;
+        height: 375px;
+    }
+    .container .Lofa1 {
+        top: 10%;
+        left: 37%;
+    }
+    .container .Gbarpolu1 {
+        top: 17%;
+        left: 28%;
+    }
+    .container .GrandCapeMount1 {
+        top: 23%;
+        left: 10%;
+    }
+    .container .Bomi1 {
+        top: 23%;
+        left: 19%;
+    }
+    .container .Montserrado1 {
+        top: 28%;
+        left: 22%;
+    }
+    .container .Margibi1 {
+        top: 28%;
+        left: 29%;
+    }
+    .container .Bong1 {
+        top: 23%;
+        left: 49%;
+    }
+    .container .Nimba1 {
+        top: 20%;
+        left: 68%;
+    }
+    .container .GrandBassa1 {
+        top: 30%;
+        left: 40%;
+    }
+    .container .GrandGedeh1 {
+        top: 30%;
+        left: 79%;
+    }
+    .container .RiverCess1 {
+        top: 35%;
+        left: 50%;
+    }
+    .container .Sinoe1 {
+        top: 36%;
+        left: 60%;
+    }
+    .container .GrandKru1 {
+        top: 41%;
+        left: 73%;
+    }
+    .container .RiverGee1 {
+        top: 37%;
+        left: 87%;
+    }
+    .container .Maryland1 {
+        top: 45%;
+        left: 86%;
+    }
+}
+
+@media only screen and (max-width:360px) {
+    svg {
+        width: 340px;
+        height: 375px;
+    }
+    .container .Lofa1 {
+        top: 10%;
+        left: 37%;
+    }
+    .container .Gbarpolu1 {
+        top: 17%;
+        left: 28%;
+    }
+    .container .GrandCapeMount1 {
+        top: 23%;
+        left: 10%;
+    }
+    .container .Bomi1 {
+        top: 26%;
+        left: 17%;
+    }
+    .container .Montserrado1 {
+        top: 29%;
+        left: 22%;
+    }
+    .container .Margibi1 {
+        top: 28%;
+        left: 29%;
+    }
+    .container .Bong1 {
+        top: 23%;
+        left: 49%;
+    }
+    .container .Nimba1 {
+        top: 20%;
+        left: 68%;
+    }
+    .container .GrandBassa1 {
+        top: 33%;
+        left: 40%;
+    }
+    .container .GrandGedeh1 {
+        top: 36%;
+        left: 79%;
+    }
+    .container .RiverCess1 {
+        top: 35%;
+        left: 50%;
+    }
+    .container .Sinoe1 {
+        top: 40%;
+        left: 60%;
+    }
+    .container .GrandKru1 {
+        top: 47%;
+        left: 76%;
+    }
+    .container .RiverGee1 {
+        top: 42%;
+        left: 88%;
+    }
+    .container .Maryland1 {
+        top: 47.5%;
+        left: 86%;
+    }
+}
+
+
+/*
+    320px — 480px: Mobile devices.
+    481px — 768px: iPads, Tablets.
+    769px — 1024px: Small screens, laptops.
+    1025px — 1200px: Desktops, large screens.
+    1201px and more — Extra large screens, TV.
+    
+    Small (smaller than 640px) Medium (641px to 1007px) Large (1008px and larger)
+    ...
+    Screen Resolution Stats Worldwide: Jan 2020 – Jan 2021
+    1920×1080 (8.89%)
+    1366×768 (8.44%)
+    360×640 (7.28%)
+    414×896 (4.58%)
+    1536×864 (3.88%)
+    375×667 (3.75%)
+    */
