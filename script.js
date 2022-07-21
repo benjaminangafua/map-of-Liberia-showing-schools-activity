@@ -34,7 +34,7 @@ fetch(URL_PATH)
 
                 // Pop up
                 // let span = document.createElement("span")
-                // span.setAttribute("class", `popUp`)
+                // span.setAttribute("class", `${eachCounty}1`)
                 // container.append(span)
             }
         }
@@ -42,7 +42,7 @@ fetch(URL_PATH)
         let animate = document.querySelectorAll(".container span")
         for (let i = 0; i < animate.length; i++) {
             animate[i].style = `
-            position: absolute; width: 15px; height: 15px;
+            position: absolute; width: 5px; height: 5px;
             border-radius: 50px; background-color: #fff;
            animation: popUp 1.5s linear infinite;
         `

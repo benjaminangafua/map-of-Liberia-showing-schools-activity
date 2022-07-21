@@ -18,22 +18,124 @@ body {
 
 /* animation: name duration timing-function delay iteration-count direction fill-mode; */
 
-.container .countyA {
-    top: 50%;
-    left: 40%;
+.container .Lofa0 {
+    top: 29%;
+    left: 47%;
+    font-size: 7px;
     animation-delay: 1s;
 }
 
-.container .countyB {
-    top: 20%;
-    left: 40%;
+.container .Bomi1 {
+    top: 48%;
+    left: 41%;
+    font-size: 7px;
     animation-delay: 0.5s;
+}
+
+.container .Margibi2 {
+    top: 50%;
+    left: 44%;
+    font-size: 7px;
+    animation-delay: 0.5s;
+}
+
+.container .Montserrado3 {
+    top: 50%;
+    left: 42%;
+    font-size: 7px;
+    animation-delay: 0.5s;
+}
+
+.container .Gbarpolu14 {
+    top: 33%;
+    left: 44%;
+    font-size: 7px;
+    animation-delay: 0.5s;
+}
+
+.container .Bong4 {
+    top: 43%;
+    left: 50%;
+    font-size: 7px;
+    animation-delay: 0.5s;
+}
+
+.container .Nimba5 {
+    top: 40%;
+    left: 55%;
+    font-size: 7px;
+    animation-delay: 0.5s;
+}
+
+.container .GrandCapeMount9 {
+    top: 40%;
+    left: 40%;
+    font-size: 7px;
+    animation-delay: 0.5s;
+}
+
+.container .GrandBassa11 {
+    top: 53%;
+    left: 46%;
+    font-size: 7px;
+    animation-delay: 0.5s;
+}
+
+.container .GrandGedeh7 {
+    top: 57%;
+    left: 56%;
+    font-size: 7px;
+    animation-delay: 0.5s;
+}
+
+.container .RiverCess12 {
+    top: 56%;
+    left: 50%;
+    font-size: 7px;
+    animation-delay: 0.5s;
+}
+
+.container .Sinoe10 {
+    top: 64%;
+    left: 53%;
+    font-size: 7px;
+    animation-delay: 0.5s;
+}
+
+.container .GrandKru8 {
+    top: 71%;
+    left: 57%;
+    font-size: 7px;
+    animation-delay: 0.5s;
+    color: #fff;
 }
 
 .container .countyC {
     top: 50%;
     left: 50%;
     animation-delay: 0.7s;
+}
+
+.container .GrandKru8 {
+    top: 71%;
+    left: 57%;
+    font-size: 7px;
+    animation-delay: 0.5s;
+    color: #fff;
+}
+
+.container .RiverGee13 {
+    top: 68%;
+    left: 60%;
+    font-size: 7px;
+    animation-delay: 0.5s;
+}
+
+.container .Maryland6 {
+    top: 77%;
+    left: 61%;
+    font-size: 7px;
+    animation-delay: 0.5s;
 }
 
 @keyframes popUp {
