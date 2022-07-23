@@ -27,7 +27,7 @@ body {
 }
 
 .container .Bomi1 {
-    top: 48%;
+    top: 47%;
     left: 41%;
     animation-delay: 0.5s;
 }
@@ -100,13 +100,13 @@ body {
 }
 
 .container .RiverGee1 {
-    top: 68%;
+    top: 66%;
     left: 60%;
     animation-delay: 0.5s;
 }
 
 .container .Maryland1 {
-    top: 77%;
+    top: 74%;
     left: 61%;
     animation-delay: 0.5s;
 }
@@ -124,7 +124,7 @@ body {
     }
 }
 
-@media only screen and (max-width:480px) {
+@media only screen and (max-width:480px) and (max-width:600px) {
     svg {
         width: 340px;
         height: 375px;
@@ -178,7 +178,7 @@ body {
         left: 60%;
     }
     .container .GrandKru1 {
-        top: 41%;
+        top: 44%;
         left: 73%;
     }
     .container .RiverGee1 {
