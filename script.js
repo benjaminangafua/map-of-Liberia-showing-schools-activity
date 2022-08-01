@@ -37,6 +37,10 @@ fetch(URL_PATH)
             let span = document.createElement("span")
             span.setAttribute("class", `${COUNTIES[i]}1`)
             container.append(span)
+            let eCounty = document.querySelector(`svg`)
+            let animate = document.createElement("animate")
+            animate.setAttribute("class", `animate-${COUNTIES[i]}`)
+            eCounty.append(animate)
         }
 
         let animate = document.querySelectorAll(".container span")
