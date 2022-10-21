@@ -17,7 +17,12 @@ body {
     margin-top: 10%;
 }
 
-
+/* Style for counties */
+.county{
+    fill-opacity:1;
+    fill-rule:evenodd;
+    stroke:none
+}
 /* animation: name duration timing-function delay iteration-count direction fill-mode; */
 
 .container .Lofa1 {
@@ -110,7 +115,15 @@ body {
     left: 61%;
     animation-delay: 0.5s;
 }
+.container > span{
 
+    position: absolute; 
+    width: 5px; 
+    height: 5px;
+    border-radius: 50px; 
+    background-color: #fff;
+   animation: popUp 1.5s linear infinite;
+}
 @keyframes popUp {
     100% {
         transform: scale(5);

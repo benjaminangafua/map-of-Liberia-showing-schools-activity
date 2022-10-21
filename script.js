@@ -6,11 +6,13 @@ fetch(URL_PATH)
     .then(data => {
         let COUNTIES = []
 
-        // Get counties
-        let removeDuplicate = data.filter((obj, pos, arr) => arr.map(mapObj =>
+        // Get each county
+        const COUNTY = 
+        data.filter((obj, pos, arr) => 
+            arr.map(mapObj => 
             mapObj["County Name"]).indexOf(obj["County Name"]) == pos);
-        removeDuplicate.forEach(element => COUNTIES.push(element["County Name"]));
 
+        COUNTY.forEach(element => COUNTIES.push(element["County Name"]));
 
         const COLOR = [
             "green", "orange", "navy", "purple", "brown", "red", "teal",
@@ -28,28 +30,23 @@ fetch(URL_PATH)
                 eachCounty[j].setAttribute("style", `fill:${COLOR[i]}`)
 
                 // Hover
-                eachCounty[j].addEventListener("mouseover", (event) => {
-                    console.log(COUNTIES[i])
+                eachCounty[j].addEventListener("click", (event) => {
+                    console.log(event)
                 })
 
                 // Pop up
             }
-            let span = document.createElement("span")
-            span.setAttribute("class", `${COUNTIES[i]}1`)
-            container.append(span)
             let eCounty = document.querySelector(`svg`)
             let animate = document.createElement("animate")
-            animate.setAttribute("class", `animate-${COUNTIES[i]}`)
-            eCounty.append(animate)
-        }
+            let span = document.createElement("span")
 
-        let animate = document.querySelectorAll(".container span")
-        for (let i = 0; i < animate.length; i++) {
-            animate[i].style = `
-            position: absolute; width: 5px; height: 5px;
-            border-radius: 50px; background-color: #fff;
-           animation: popUp 1.5s linear infinite;
-        `
+            // Set attributes
+            span.setAttribute("class", `${COUNTIES[i]}1`)
+            animate.setAttribute("class", `animate-${COUNTIES[i]}`)
+
+            // Add elements
+            container.append(span)
+            eCounty.append(animate)
         }
 
     }).catch(error => console.error({ error }))
